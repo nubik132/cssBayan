@@ -1,8 +1,10 @@
 div.main{
     margin-left: 10%;
     margin-right: 10%;
-    border-bottom: 1px solid #000;
+}
+div.main:hover{
+    color:black;
 }
 div.container{
-    
+    color: #085dd9;
 }
