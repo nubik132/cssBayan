@@ -9,3 +9,16 @@ div.container{
     color: #085dd9;
     display: flex;
 }
+h1{
+    font-weight: 900;
+}
+hr{
+    width: 100%;
+}
+.container:hover .photo{
+    max-height: 100vh;
+   transform:  translateY(6px); 
+}
+.container:hover .plus h2{
+    transform: rotate(45deg);
+}
