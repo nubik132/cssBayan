@@ -1,12 +1,13 @@
 div.main{
     margin-left: 10%;
     margin-right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #085dd9;
 }
 div.main:hover{
-    color:black;
+    color: #000;
 }
 div.container{
-    color: #085dd9;
     display: flex;
 }
 h1{
