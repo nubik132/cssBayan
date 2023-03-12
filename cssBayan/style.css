@@ -7,4 +7,5 @@ div.main:hover{
 }
 div.container{
     color: #085dd9;
+    display: flex;
 }
